@@ -16,6 +16,7 @@ print(friends)
 #inserts a vaule into the list
 friends.insert(1, "kelly")
 print(friends)
+print(friends)
 
 #removes a vaule from the list
 friends.remove("kelly")

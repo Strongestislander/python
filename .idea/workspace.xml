@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b1624a6-64b4-49d0-8115-90965675ef62" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/10_List_functions/List_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_List_functions/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Tuples/11_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Tuples/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09_Lists/lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_Lists/lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_List_functions/List_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_List_functions/List_function.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +44,8 @@
       <recent name="C:\Users\Habih\OneDrive\PERSONAL\GITHUB\python\06_UserInput" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lists">
-    <configuration name="Basic_calc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.11_tuple">
+    <configuration name="11_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,11 +53,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_Basic_Calculator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_Tuples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Basic_Calculator/Basic_calc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_Tuples/11_tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.11_tuple" />
         <item itemvalue="Python.lists" />
         <item itemvalue="Python.List_function" />
         <item itemvalue="Python.Mad_Libs" />
         <item itemvalue="Python.calc2" />
-        <item itemvalue="Python.Basic_calc" />
       </list>
     </recent_temporary>
   </component>
