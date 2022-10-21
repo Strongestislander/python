@@ -1,0 +1,20 @@
+
+
+
+I wake up
+if I'm hungy
+    I eat breakfast
+
+I leave my house
+if its cloudy
+    I bring an umbrella
+otherwise
+    I bring sunglassess
+
+Im at a restaurant
+if I want meat
+    I order a steak
+otherwise if I want pasta
+    I order spaghettti & meatballs
+otherwise
+    I order a salad.

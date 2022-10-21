@@ -2,36 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b1624a6-64b4-49d0-8115-90965675ef62" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Begginner/14_If_statements/14_if_statements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Begginner/14_If_statements/if.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Begginner/14_If_statements/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Hello_world/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/01_Hello_world/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Hello_world/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/01_Hello_world/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_shape/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/02_shape/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_shape/shape.py" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/02_shape/shape.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Variables &amp; Data Types/basic_var.py" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/03_Variables &amp; Data Types/basic_var.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Variables &amp; Data Types/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/03_Variables &amp; Data Types/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_String/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/04_String/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_String/string.py" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/04_String/string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_Numbers/num.py" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/05_Numbers/num.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_Numbers/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/05_Numbers/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_UserInput/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/06_UserInput/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_UserInput/user_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/06_UserInput/user_input.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_Basic_Calculator/Basic_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/07_Basic_Calculator/Basic_calc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_Basic_Calculator/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/07_Basic_Calculator/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_Mad_Libs_Game/Mad_Libs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/08_Mad_Libs_Game/Mad_Libs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_Mad_Libs_Game/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/08_Mad_Libs_Game/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09_Lists/lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/09_Lists/lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09_Lists/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/09_Lists/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_List_functions/List_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/10_List_functions/List_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_List_functions/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/10_List_functions/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_Tuples/11_tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/11_Tuples/11_tuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_Tuples/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/11_Tuples/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_Functions/function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/12_Functions/function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_Functions/readme.md.py" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/12_Functions/readme.md.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Begginner/13_Return Statement/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/01_Begginner/13_Return Statement/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Begginner/13_Return Statement/return.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Begginner/13_Return Statement/return.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +28,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GKotLjc069Wtpz0Qmlg8e9Y4So" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -66,10 +45,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Habih\OneDrive\PERSONAL\GITHUB\python\Begginner-scripts" />
       <recent name="C:\Users\Habih\OneDrive\PERSONAL\GITHUB\python\06_UserInput" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.function">
+  <component name="RunManager" selected="Python.14_if_statements">
     <configuration name="11_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="List_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="14_if_statements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,32 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_List_functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Begginner/14_If_statements" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_List_functions/List_function.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Mad_Libs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_Mad_Libs_Game" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_Mad_Libs_Game/Mad_Libs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Begginner/14_If_statements/14_if_statements.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,13 +134,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="return" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Begginner/13_Return Statement" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Begginner/13_Return Statement/return.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.14_if_statements" />
+        <item itemvalue="Python.return" />
         <item itemvalue="Python.function" />
         <item itemvalue="Python.11_tuple" />
         <item itemvalue="Python.lists" />
-        <item itemvalue="Python.List_function" />
-        <item itemvalue="Python.Mad_Libs" />
       </list>
     </recent_temporary>
   </component>
