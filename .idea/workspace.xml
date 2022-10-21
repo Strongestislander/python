@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b1624a6-64b4-49d0-8115-90965675ef62" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/08_Mad_Libs_Game/Mad_Libs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Mad_Libs_Game/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Lists/lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Lists/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
       <recent name="C:\Users\Habih\OneDrive\PERSONAL\GITHUB\python\06_UserInput" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Mad_Libs">
+  <component name="RunManager" selected="Python.lists">
     <configuration name="Basic_calc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_Numbers" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_Lists" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Numbers/num.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_Lists/lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lists" />
         <item itemvalue="Python.Mad_Libs" />
         <item itemvalue="Python.calc2" />
         <item itemvalue="Python.Basic_calc" />
         <item itemvalue="Python.user_input" />
-        <item itemvalue="Python.num" />
       </list>
     </recent_temporary>
   </component>
