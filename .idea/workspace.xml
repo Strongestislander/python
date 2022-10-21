@@ -2,11 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b1624a6-64b4-49d0-8115-90965675ef62" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/10_List_functions/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_Tuples/11_tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_Tuples/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_List_functions/List_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_List_functions/List_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Hello_world/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/01_Hello_world/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Hello_world/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/01_Hello_world/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_shape/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/02_shape/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_shape/shape.py" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/02_shape/shape.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Variables &amp; Data Types/basic_var.py" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/03_Variables &amp; Data Types/basic_var.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Variables &amp; Data Types/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/03_Variables &amp; Data Types/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_String/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/04_String/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_String/string.py" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/04_String/string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Numbers/num.py" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/05_Numbers/num.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Numbers/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/05_Numbers/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_UserInput/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/06_UserInput/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_UserInput/user_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/06_UserInput/user_input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_Basic_Calculator/Basic_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/07_Basic_Calculator/Basic_calc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_Basic_Calculator/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/07_Basic_Calculator/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_Mad_Libs_Game/Mad_Libs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/08_Mad_Libs_Game/Mad_Libs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_Mad_Libs_Game/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/08_Mad_Libs_Game/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_Lists/lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/09_Lists/lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_Lists/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/09_Lists/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_List_functions/List_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/10_List_functions/List_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_List_functions/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/10_List_functions/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_Tuples/11_tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/11_Tuples/11_tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_Tuples/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/11_Tuples/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_Functions/function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/12_Functions/function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_Functions/readme.md.py" beforeDir="false" afterPath="$PROJECT_DIR$/Begginner-scripts/12_Functions/readme.md.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,20 +56,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Habih/OneDrive/PERSONAL/GITHUB/python",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Habih/OneDrive/PERSONAL/GITHUB/python&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Habih\OneDrive\PERSONAL\GITHUB\python\06_UserInput" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.11_tuple">
+  <component name="RunManager" selected="Python.function">
     <configuration name="11_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="calc2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_Basic_Calculator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_Functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Basic_Calculator/calc2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_Functions/function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,6 +158,9 @@
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_Lists" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -149,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.function" />
         <item itemvalue="Python.11_tuple" />
         <item itemvalue="Python.lists" />
         <item itemvalue="Python.List_function" />
         <item itemvalue="Python.Mad_Libs" />
-        <item itemvalue="Python.calc2" />
       </list>
     </recent_temporary>
   </component>
